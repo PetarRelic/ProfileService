@@ -1,4 +1,4 @@
-package com.petarrelic.profileserviceskillsync;
+package com.petarrelic.profileserviceskillsync.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
